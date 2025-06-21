@@ -1,0 +1,55 @@
+body{
+    background-color:aliceblue;  
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul{
+    line-height: 2;
+}
+
+img{
+    border-radius: 20px;    
+    width: 300px;
+}
+
+table, th, td {
+    border: 2px solid skyblue;
+    
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    color: blue;
+}
+
+a {
+    color:blue;   
+}
+
+a:hover {
+    color: red;
+}
+
+button{
+    background-color:blue;  
+    color:aliceblue;
+}
+
+button:hover{
+    background-color:aqua;  
+    color:black;
+}
+
+#mensagem{
+    color:blue;
+}
